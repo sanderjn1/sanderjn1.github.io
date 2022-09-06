@@ -1,4 +1,7 @@
 
-| Navn | Konto |
+| Navn | URL |
 |------|-------|
-|testhundreog94|testigjenhehehe|
+|Majd Saleh|https://github.com/Masa-44|
+|Niklas Pedersen Holm|https://github.com/NatasMeister|
+|Jonas Landro|https://github.com/JonasLandro|
+|Mally Conradi|https://github.com/mallyconradi|
