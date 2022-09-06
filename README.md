@@ -1,4 +1,4 @@
 
-| Navn | Konto |
+| Navn | URL |
 |------|-------|
-|testhundreog94|testigjenhehehe mordi|
+|Ruben Teikari|https://github.com/Mordadin|
