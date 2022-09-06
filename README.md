@@ -1,4 +1,4 @@
 
-| Navn | Konto |
+| Navn | URL |
 |------|-------|
-|testhundreog94|testigjenhehehe|
+|Niklas Pedersen Holm|https://github.com/NatasMeister|
