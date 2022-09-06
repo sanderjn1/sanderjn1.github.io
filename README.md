@@ -7,3 +7,5 @@
 |Mally Conradi|https://github.com/mallyconradi|
 |Ruben Teikari|https://github.com/Mordadin|
 |Sander Javier Nomedal|https://github.com/sanderjn1|
+|Kevin Valderrama |https://github.com/Kevm94|
+
