@@ -9,6 +9,6 @@
 |Sander Javier Nomedal|https://github.com/sanderjn1|
 |Kevin Valderrama |https://github.com/Kevm94|
 
-Komplisert prosess som tok tid, må se flere youtube videoer. Vi fikk det til slutt, men veldig mye forvirrelser. 
+Komplisert prosess som tok tid, må se flere youtube videoer. Vi fikk det til slutt, men veldig mye forvirrelser. Mye definisjons spørsmål.
 Forståelse for Github 3/5
 
