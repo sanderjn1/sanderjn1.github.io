@@ -16,5 +16,3 @@ pflagg.html - Kevin og Sander
 cssflagg.html - Ruben, Mally og Majd
 
 canvasflagg.html - Niklas og Jonas
-
-a)
